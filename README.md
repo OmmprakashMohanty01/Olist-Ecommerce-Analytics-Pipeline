@@ -3,7 +3,7 @@
 ## 📌 Executive Summary
 This project demonstrates an end-to-end data engineering and business intelligence pipeline. Using the Olist Brazilian E-Commerce dataset, I built a relational PostgreSQL database, engineered analytical views, and developed an interactive Tableau dashboard to uncover supply chain bottlenecks and sales trends.
 
-**Live Dashboard:** [Insert Your Tableau Public Link Here]
+Dashboard Preview: A high-resolution preview is available in Dashboard_Screenshot.png, and the fully interactive dashboard can be downloaded via the Ecommerce_Sales.twbx file.
 
 ## 🛠️ Tech Stack & Tools
 * **Database:** PostgreSQL
